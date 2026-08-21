@@ -5,3 +5,5 @@ marks = np.array([
     [60, 85, 75],
     [95, 88, 92]
 ])
+
+print(np.sum(marks, axis=1))
