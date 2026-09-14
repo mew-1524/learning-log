@@ -23,3 +23,26 @@ result = pd.merge(
     on="ID",
     how="inner"
 )
+print("\nInner Join:")
+print(result)
+
+#right join
+result1 = pd.merge(
+    students,
+    marks,
+    on="ID",
+    how="right"
+)
+print("\nRight Join:")
+print(result1)
+
+#outer join
+result3 = pd.merge(
+    students,
+    marks,
+    on="ID",
+    how="outer"
+)
+print("\nOuter Join:")
+print(result3)
+
