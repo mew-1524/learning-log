@@ -3,3 +3,4 @@ import pandas as pd
 df = pd.read_csv("sales.csv")
 
 print(df.groupby("City")["Sales"].sum())
+print(df.groupby("Category")["Sales"].sum())

@@ -1,0 +1,11 @@
+OrderID,Product,Category,City,Sales,Quantity
+1001,Laptop,Electronics,Mumbai,55000,2
+1002,Mouse,Electronics,Pune,1200,5
+1003,Keyboard,Electronics,Mumbai,2500,3
+1004,Chair,Furniture,Delhi,7000,2
+1005,Desk,Furniture,Pune,12000,1
+1006,Laptop,Electronics,Delhi,60000,1
+1007,Mouse,Electronics,Mumbai,1500,4
+1008,Chair,Furniture,Mumbai,6500,3
+1009,Desk,Furniture,Delhi,11000,2
+1010,Keyboard,Electronics,Pune,3000,2
